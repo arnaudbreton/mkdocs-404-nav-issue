@@ -1,0 +1,1 @@
+# mkdocs-materials-404-issue
